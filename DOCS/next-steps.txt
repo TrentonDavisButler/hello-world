@@ -1,2 +1,3 @@
-Evil twin txt:wq
-
+Have the program have dialogue with the user. 
+Have it ask more questions and receive answers.
+Evil twin txt:
